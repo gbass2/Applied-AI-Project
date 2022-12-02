@@ -3,6 +3,8 @@
 ## Summary:
 
 ## Included:
+  - [iOS APp](app)
+  - Core ML and PyTorch models
 
 ## Results:
 ![Single Image Inference](documentation/images/test1.PNG "Single Image Inference)")
