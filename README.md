@@ -10,6 +10,6 @@
 ![Single Image Inference](documentation/images/test1.PNG "Single Image Inference)")
 ![Single Image Inference](documentation/images/test2.PNG "Single Image Inference)")
 https://drive.google.com/file/d/10a2BTmvDLUOKnZi87EzzWlVNz52qLRwm/view?usp=share_link
-[![Watch the video]](https://drive.google.com/file/d/10a2BTmvDLUOKnZi87EzzWlVNz52qLRwm/view?usp=share_link)
-
+(https://drive.google.com/file/d/10a2BTmvDLUOKnZi87EzzWlVNz52qLRwm/view?usp=share_link)
+[![Alternate Text]]({https://drive.google.com/file/d/10a2BTmvDLUOKnZi87EzzWlVNz52qLRwm/view?usp=share_link} "Link Title")
 ## Notes:
