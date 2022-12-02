@@ -3,7 +3,7 @@
 ## Summary:
 
 ## Included:
-  - [iOS APp](app)
+  - [iOS App](app)
   - Core ML and PyTorch models
 
 ## Results:
