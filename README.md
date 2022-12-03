@@ -11,7 +11,9 @@ This project implemented an autonomous driving object detector using [YOLOv7](ht
 ![Single Image Inference](documentation/images/test1.PNG "Single Image Inference")
 ![Single Image Inference](documentation/images/test2.PNG "Single Image Inference")
 
-[![Live Results](https://res.cloudinary.com/marcomontalbano/image/upload/v1670026267/video_to_markdown/images/google-drive--10a2BTmvDLUOKnZi87EzzWlVNz52qLRwm-c05b58ac6eb4c4700831b2b3070cd403.jpg)](https://drive.google.com/file/d/10a2BTmvDLUOKnZi87EzzWlVNz52qLRwm/view?usp=share_link "Live Results")
+[![Live Results](https://res.cloudinary.com/marcomontalbano/image/upload/v1670026267/video_to_markdown/images/google-drive--10a2BTmvDLUOKnZi87EzzWlVNz52qLRwm-c05b58ac6eb4c4700831b2b3070cd403.jpg)](https://www.youtube.com/watch?v=g46bXFXs_gU "Live Results")
+
+(https://drive.google.com/file/d/10a2BTmvDLUOKnZi87EzzWlVNz52qLRwm/view?usp=share_link "Live Results")
 (https://www.youtube.com/watch?v=g46bXFXs_gU "Live Results2")
 
 ## Notes:
