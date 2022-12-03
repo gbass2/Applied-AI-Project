@@ -12,6 +12,7 @@ This project implemented an autonomous driving object detector using [YOLOv7](ht
 ![Single Image Inference](documentation/images/test2.PNG "Single Image Inference")
 
 [![Live Results](https://res.cloudinary.com/marcomontalbano/image/upload/v1670026267/video_to_markdown/images/google-drive--10a2BTmvDLUOKnZi87EzzWlVNz52qLRwm-c05b58ac6eb4c4700831b2b3070cd403.jpg)](https://drive.google.com/file/d/10a2BTmvDLUOKnZi87EzzWlVNz52qLRwm/view?usp=share_link "Live Results")
+(https://www.youtube.com/watch?v=g46bXFXs_gU "Live Results2")
 
 ## Notes:
 The app works best when the device is oriented in the landscape position with camera facing to the left. The apps framerate has been limited to 60 fps since the model could no exceed that. The maximum framerate supported from the camera is 240 fps. The resultion is set to 1080p but can be increased to 4k or lowered to 720.
