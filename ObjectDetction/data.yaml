@@ -1,0 +1,15 @@
+names:
+- biker
+- car
+- pedestrian
+- trafficLight
+- trafficLight-Green
+- trafficLight-GreenLeft
+- trafficLight-Red
+- trafficLight-RedLeft
+- trafficLight-Yellow
+- trafficLight-YellowLeft
+- truck
+nc: 11
+train: /content/dataset/train/images
+val: /content/dataset/val/images
