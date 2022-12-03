@@ -1,6 +1,7 @@
 # Applied-AI-Project
 
 ## Summary:
+This project implemented a autonomous driving object detector using [YOLOv7](https://github.com/WongKinYiu/yolov7) and the [Udacity](https://public.roboflow.com/object-detection/self-driving-car) dataset. The was converted to Core ML after training and inference was ran on an iPhone 13 Pro.
 
 ## Included:
   - [iOS App](app)
