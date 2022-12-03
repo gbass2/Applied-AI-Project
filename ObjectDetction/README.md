@@ -1,1 +1,1 @@
-## Object Detction trianing
+## Object Detection training
